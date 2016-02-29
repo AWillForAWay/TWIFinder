@@ -46,5 +46,16 @@
         },
         "is_top_level": true,
         "variables": {}
+    },
+    "phonegap-facebook-plugin": {
+        "source": {
+            "type": "local",
+            "path": "/Users/Austin/Documents/Dev/phonegap-facebook-plugin"
+        },
+        "is_top_level": true,
+        "variables": {
+            "APP_ID": "587700871406472",
+            "APP_NAME": "TWIFinder"
+        }
     }
 }

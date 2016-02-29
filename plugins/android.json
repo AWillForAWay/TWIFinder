@@ -1,0 +1,35 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.twifinder"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.twifinder"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.twifinder"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.twifinder"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.twifinder"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.twifinder"
+        },
+        "phonegap-facebook-plugin": {
+            "APP_ID": "587700871406472",
+            "APP_NAME": "TWIFinder",
+            "PACKAGE_NAME": "com.ionicframework.twifinder"
+        }
+    },
+    "dependent_plugins": {}
+}
